@@ -1,0 +1,79 @@
+*{
+  margin: 0px;
+  font-family: 'Encode Sans', sans-serif;
+}
+body{
+  background-color: #FBF2FF;
+  }
+
+.card-body{
+      display: flex;
+  justify-content: center ;
+}
+.nav-item:hover{
+  color:black;
+  border-radius: 10px;
+  background-color:#e6e6fa;
+
+}
+.button1{
+  color:black;
+  text-decoration: none;
+  border:2px solid red;
+  padding: 6px;
+ }
+.button1:hover{
+ color:black;
+ border-radius: 10px;
+ transition: 0.2s;
+
+}
+.button2{
+  color:black;
+  text-decoration: none;
+  border:2px solid green;
+  padding: 6px;
+}
+.button2:hover{
+ color:black;
+ border-radius: 10px;
+ transition: 0.2s;
+}
+.button3{
+  color:black;
+  border-radius: 10px;
+  padding: 6px;
+  text-decoration: none;
+}
+.button3:hover{
+ color:black;
+ border-radius: 10px;
+  border:2px solid green;
+ transition: 0.2s;
+}
+.button4{
+  color:black;
+  border-radius: 10px;
+   padding: 6px;
+  text-decoration: none;
+}
+.button4:hover{
+  color:black;
+  border-radius: 10px;
+  border:2px solid orange;
+   transition: 0.2s;
+   
+}
+.fa-solid{
+  color: blue;
+}
+.button5{
+  color:black;
+  text-decoration: none;
+  padding: 6px;
+ }
+.button5:hover{
+ color:black;
+ border-radius: 10px;
+ transition: 0.2s;
+}
